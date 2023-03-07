@@ -21,6 +21,6 @@ Fibonacci numbers and sequencing were first used by Indian mathematicians centur
 
 With this python code, you can use the GOLD levels, that is, the return levels for "bull" or "bear", in the fastest way for any exchange.
 
-You can even build yourself a simple trading bot by executing automated orders asynchronously.
+You can even build yourself a simple trading bot by executing automated orders asynchronously between these two Fibonacci Prices.
 
 If you would like to build a custom trade bot built for you, my e-mail: ufukkaan19@gmail.com
