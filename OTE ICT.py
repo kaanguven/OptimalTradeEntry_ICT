@@ -20,7 +20,7 @@ warnings.filterwarnings("ignore")
  
 
 
-# API TANIMLAMALARI
+
 account_binance = ccxt.binance({
     "apiKey": '',
     "secret": '',
